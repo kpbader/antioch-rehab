@@ -1,8 +1,8 @@
 import './treatment.css';
 import Fade from 'react-reveal/Fade';
-import franciscoG from '../../assets/images/francisco-g-unsplash.jpg';
-import nickR from '../../assets/images/nick-rickert-qx3ZAL-gYjY-unsplash.jpg';
-import lakeOne from '../../assets/images/daniel-roe-lpjb_UMOyx8-unsplash.jpg';
+import dex from '../../assets/images/dex-ezekiel-1ieehMBvYhI-unsplash.jpg';
+import tsvetelin from '../../assets/images/tsvetelin-todorov-vYBPW6mas7A-unsplash.jpg';
+import alice from '../../assets/images/alice-triquet-HeEJU3nrg_0-unsplash.jpg';
 import { useState, useRef } from 'react';
 
 
@@ -24,7 +24,7 @@ function Treatment() {
             </div>
             <div id="treatment-two">
                 <Fade left>
-                    <img src={franciscoG} alt="by Francisco Gonzalez" />
+                    <img src={dex} alt="by Dex Ezekiel" />
                 </Fade>
                 <Fade right>
                     <div id="treatment-two-text">
@@ -47,12 +47,12 @@ function Treatment() {
                     </div>
                 </Fade>
                 <Fade right>
-                    <img src={nickR} alt="by Nick Rickert" />
+                    <img src={tsvetelin} alt="by Tsvetelin Todorov" />
                 </Fade>
             </div>
             <div id="treatment-four">
                 <Fade left>
-                <img src={lakeOne} alt="by Daniel Roe" />
+                <img src={alice} alt="by Daniel Roe" />
                 </Fade>
                 <Fade right>
                     <div id="treatment-four-text">

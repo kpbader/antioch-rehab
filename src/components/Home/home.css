@@ -1,11 +1,11 @@
 #home-splash {
-    background-color: rgb(77, 26, 43);
+    background-color: rgb(29, 39, 65);
 }
 
 #home-splash h2 {
     position: absolute;
-    top: 60%;
-    right: 60%;
+    top: 70%;
+    left: 60%;
     /* transform: translate(50%, 50%); */
     font-size: 40px;
     font-weight: 300;
@@ -19,7 +19,7 @@ video {
 }
 
 #our-services {
-  background-color: rgb(77, 26, 43);
+  background-color: rgb(29, 39, 65);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -69,7 +69,7 @@ video {
   
   #learn-more-btn:hover {
     color: silver;
-    background-color: rgb(77, 26, 43);
+    background-color: rgb(29, 39, 65);
     transition: 0.5s ease;
   }
 
@@ -78,7 +78,7 @@ video {
     flex-wrap: wrap;
     justify-content: space-around !important;
     align-items: center;
-    background-image: url('../../assets/images/cris-ovalle-YTk8tO3PGdA-unsplash.jpg');
+    background-image: url('../../assets/images/john-towner-3Kv48NS4WUU-unsplash.jpg');
     background-position: center bottom;
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
