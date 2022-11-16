@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/antioch-rehab/static/css/main.3274186f.css",
-    "main.js": "/antioch-rehab/static/js/main.7882e2eb.js",
+    "main.css": "/antioch-rehab/static/css/main.cc372bdd.css",
+    "main.js": "/antioch-rehab/static/js/main.d8629306.js",
     "static/js/787.c2fedcfe.chunk.js": "/antioch-rehab/static/js/787.c2fedcfe.chunk.js",
     "static/media/45a5a867-3376b37c.mp4": "/antioch-rehab/static/media/45a5a867-3376b37c.eec939be3cd7747d7121.mp4",
     "static/media/dex-ezekiel-1ieehMBvYhI-unsplash.jpg": "/antioch-rehab/static/media/dex-ezekiel-1ieehMBvYhI-unsplash.5dc290955bf7111daa9f.jpg",
@@ -12,6 +12,7 @@
     "static/media/john-towner-3Kv48NS4WUU-unsplash.jpg": "/antioch-rehab/static/media/john-towner-3Kv48NS4WUU-unsplash.d3ee4900643393d8e5ff.jpg",
     "static/media/florian-hahn-overlay.jpg": "/antioch-rehab/static/media/florian-hahn-overlay.a93f776dccf1a3c0586d.jpg",
     "static/media/tsvetelin-todorov-vYBPW6mas7A-unsplash.jpg": "/antioch-rehab/static/media/tsvetelin-todorov-vYBPW6mas7A-unsplash.354c767c3227fc50c465.jpg",
+    "static/media/antioch-white-logo-01.png": "/antioch-rehab/static/media/antioch-white-logo-01.f013dc4e3312d876a477.png",
     "static/media/bluecross-blueshield-simple-modern-therapy-logo.png": "/antioch-rehab/static/media/bluecross-blueshield-simple-modern-therapy-logo.56a2b29ee5649d0f6cee.png",
     "static/media/Cigna_logo.svg.png": "/antioch-rehab/static/media/Cigna_logo.svg.ff3f6e8fda9f8d5606b2.png",
     "static/media/beacon-logo.png": "/antioch-rehab/static/media/beacon-logo.7c0bf886c3f818483418.png",
@@ -19,12 +20,12 @@
     "static/media/United-Healthcare-Logo.png": "/antioch-rehab/static/media/United-Healthcare-Logo.9dce2462c02ddc36d849.png",
     "static/media/Anthem-Inc-logo.png": "/antioch-rehab/static/media/Anthem-Inc-logo.97c429ae10389f929f91.png",
     "index.html": "/antioch-rehab/index.html",
-    "main.3274186f.css.map": "/antioch-rehab/static/css/main.3274186f.css.map",
-    "main.7882e2eb.js.map": "/antioch-rehab/static/js/main.7882e2eb.js.map",
+    "main.cc372bdd.css.map": "/antioch-rehab/static/css/main.cc372bdd.css.map",
+    "main.d8629306.js.map": "/antioch-rehab/static/js/main.d8629306.js.map",
     "787.c2fedcfe.chunk.js.map": "/antioch-rehab/static/js/787.c2fedcfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3274186f.css",
-    "static/js/main.7882e2eb.js"
+    "static/css/main.cc372bdd.css",
+    "static/js/main.d8629306.js"
   ]
 }
