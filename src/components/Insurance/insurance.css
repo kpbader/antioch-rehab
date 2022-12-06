@@ -1,5 +1,5 @@
 #insurance-top {
-    background-image: url("../../assets/images/jean-pierre-brungs-qxCqkbF7tUc-unsplash.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../../assets/images/jean-pierre-brungs-qxCqkbF7tUc-unsplash.jpg");
     background-position: center ;
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
@@ -60,3 +60,38 @@
       height: 15%;
       width: 15%;
     }
+
+      /* Extra small devices */
+  @media only screen and (min-width: 320px) and (max-width: 479px) {
+
+    #insurance-top-text {
+      width: 75%;
+    }
+
+    #insurance-logos img {
+      height: 70%; 
+      width: 70%;
+    }
+
+  }
+
+  /* Portrait tablets and large phones*/
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+
+  #insurance-logos img {
+    height: 40%; 
+    width: 40%;
+  }
+
+}
+
+
+/* Landscape tablets */
+@media only screen and (min-width: 769px) and (max-width: 900px) {
+  
+  #insurance-logos img {
+    height: 40%; 
+    width: 40%;
+  }
+  
+}

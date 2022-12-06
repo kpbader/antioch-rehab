@@ -1,9 +1,9 @@
 #nav-bar {
     display: flex;
     background-color: rgb(29, 39, 65);
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: 10px;
+    padding: 20px;
 }
 
 #nav-bar img {
@@ -35,19 +35,14 @@
 
 #hamburger-btn {
     text-align: right;
-    font-size: 45px;
+    font-size: 50px;
     display: none;
     color: white !important;
   }
   
   .offcanvas {
-    height: 350px !important;
+    height: 475px ;
     width: 200px !important;
-    /* display: flex;
-      flex-direction: row;
-      justify-content: flex-end;
-      top: 0;
-      right: 0; */
     position: fixed;
     bottom: 0;
     z-index: 1045;
@@ -87,10 +82,10 @@
   }
   
   .tabpanel a {
-    padding: 10px;
+    padding: 20px;
     text-decoration: none;
     font-size: 20px;
-    color: grey;
+    color: rgb(29, 39, 65);
     display: block;
     transition: 0.5s;
     text-align: left;
@@ -129,4 +124,77 @@
   .btn-primary:hover {
     color: silver !important;
     transition: 0.3s;
+  }
+
+    /* Extra small devices */
+    @media only screen and (min-width: 320px) and (max-width: 479px) {
+
+      #nav-bar img {
+        height: 50%; 
+        width: 50%;
+      }
+
+      #main-nav-links {
+        display: none;
+      }
+
+      #hamburger-btn {
+        display: contents;
+      }
+
+    }
+  
+    /* Portrait tablets and large phones*/
+  @media only screen and (min-width: 480px) and (max-width: 768px) {
+    
+    #nav-bar img {
+      height: 30% ; 
+      width: 30% ;
+    }
+
+    #main-nav-links {
+      display: none;
+    }
+
+    #hamburger-btn {
+      display: contents;
+      font-size: 50px;
+    }
+
+    .offcanvas {
+      width: 250px !important;
+      height: 475px !important;
+    }
+
+    .tabpanel a {
+      font-size: 20px;
+    }
+  }
+  
+  
+  /* Landscape tablets */
+  @media only screen and (min-width: 769px) and (max-width: 900px) {
+    
+    #nav-bar img {
+      height: 30% !important; 
+      width: 30% !important;
+    }
+
+    #main-nav-links {
+      display: none;
+    }
+
+    #hamburger-btn {
+      display: contents;
+      font-size: 50px;
+    }
+
+    .offcanvas {
+      width: 250px !important;
+      height: 475px !important;
+    }
+
+    .tabpanel a {
+      font-size: 20px;
+    }
   }

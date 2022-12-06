@@ -22,3 +22,32 @@
 color: silver;
     transition: 0.5s ease;
 }
+
+  /* Extra small devices */
+  @media only screen and (min-width: 320px) and (max-width: 479px) {
+
+    #footer {
+        padding: 50px;
+    }
+
+    #footer img {
+        height: 50%;
+        width: 50%;
+        
+    }
+
+    #footer-links a {
+        font-size: 12px;
+    }
+}
+
+/* Portrait tablets and large phones*/
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+
+}
+
+
+/* Landscape tablets */
+@media only screen and (min-width: 769px) and (max-width: 900px) {
+
+}

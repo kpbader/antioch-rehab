@@ -1,5 +1,9 @@
+#treatment-page {
+    overflow-x: hidden;
+}
+
 #treatment-top {
-    background-image: url("../../assets/images/cristina-gottardi-overlay.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url("../../assets/images/cristina-gottardi-overlay.jpg");
     background-position: center;
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
@@ -119,3 +123,156 @@
       padding: 10px;
   }
   
+    /* Extra small devices */
+    @media only screen and (min-width: 320px) and (max-width: 479px) {
+
+        #treatment-top {
+            align-items: center;
+            padding: 20px;
+        }
+
+        /* SECTION TWO */
+
+        #treatment-two img {
+            display: none;
+        }
+
+        #treatment-two-text {
+            width: 100%;
+            padding: 0px;
+        }
+
+        #treatment-two-text h2 {
+            font-size: 25px;
+        }
+
+        #treatment-two-text p {
+            font-size: 15px;
+            font-weight: lighter;
+        }
+
+        #treatment-two-text li {
+            font-size: 15px;
+            font-weight: lighter;
+        }
+
+        /* SECTION THREE */
+
+        #treatment-three img {
+            display: none;
+        }
+
+        #treatment-three-text {
+            width: 100%;
+        }
+
+        /* SECTION FOUR */
+
+        #treatment-four img {
+            display: none;
+        }
+
+        #treatment-four-text {
+            width: 100%;
+        }
+        
+    }
+  
+    /* Portrait tablets and large phones*/
+  @media only screen and (min-width: 480px) and (max-width: 768px) {
+  
+        /* SECTION TWO */
+
+        #treatment-two img {
+            display: none;
+        }
+
+        #treatment-two-text {
+            width: 100%;
+            padding: 0px;
+        }
+
+        #treatment-two-text h2 {
+            font-size: 25px;
+        }
+
+        #treatment-two-text p {
+            font-size: 15px;
+            font-weight: lighter;
+        }
+
+        #treatment-two-text li {
+            font-size: 15px;
+            font-weight: lighter;
+        }
+
+        /* SECTION THREE */
+
+        #treatment-three img {
+            display: none;
+        }
+
+        #treatment-three-text {
+            width: 100%;
+        }
+
+        /* SECTION FOUR */
+
+        #treatment-four img {
+            display: none;
+        }
+
+        #treatment-four-text {
+            width: 100%;
+        }
+
+  }
+  
+  
+  /* Landscape tablets */
+  @media only screen and (min-width: 769px) and (max-width: 900px) {
+    /* SECTION TWO */
+
+        #treatment-two img {
+            display: none;
+        }
+
+        #treatment-two-text {
+            width: 100%;
+            padding: 0px;
+        }
+
+        #treatment-two-text h2 {
+            font-size: 25px;
+        }
+
+        #treatment-two-text p {
+            font-size: 15px;
+            font-weight: lighter;
+        }
+
+        #treatment-two-text li {
+            font-size: 15px;
+            font-weight: lighter;
+        }
+
+        /* SECTION THREE */
+
+        #treatment-three img {
+            display: none;
+        }
+
+        #treatment-three-text {
+            width: 100%;
+        }
+
+        /* SECTION FOUR */
+
+        #treatment-four img {
+            display: none;
+        }
+
+        #treatment-four-text {
+            width: 100%;
+        }
+  }

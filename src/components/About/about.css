@@ -1,5 +1,5 @@
 #about-top {
-    background-image: url("../../assets/images/luke-porter-TRys9NU8GiQ-unsplash.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../../assets/images/luke-porter-TRys9NU8GiQ-unsplash.jpg");
     background-position: center;
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
@@ -19,3 +19,5 @@
   #about-top p {
       font-size: 25px;
   }
+
+  
