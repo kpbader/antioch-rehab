@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/antioch-rehab/static/css/main.1be8a230.css",
-    "main.js": "/antioch-rehab/static/js/main.f93ca80d.js",
+    "main.css": "/antioch-rehab/static/css/main.d13e62b7.css",
+    "main.js": "/antioch-rehab/static/js/main.29f231eb.js",
     "static/js/787.c2fedcfe.chunk.js": "/antioch-rehab/static/js/787.c2fedcfe.chunk.js",
     "static/media/45a5a867-3376b37c.mp4": "/antioch-rehab/static/media/45a5a867-3376b37c.eec939be3cd7747d7121.mp4",
     "static/media/dex-ezekiel-1ieehMBvYhI-unsplash.jpg": "/antioch-rehab/static/media/dex-ezekiel-1ieehMBvYhI-unsplash.5dc290955bf7111daa9f.jpg",
@@ -12,20 +12,23 @@
     "static/media/john-towner-3Kv48NS4WUU-unsplash.jpg": "/antioch-rehab/static/media/john-towner-3Kv48NS4WUU-unsplash.d3ee4900643393d8e5ff.jpg",
     "static/media/florian-hahn-overlay.jpg": "/antioch-rehab/static/media/florian-hahn-overlay.a93f776dccf1a3c0586d.jpg",
     "static/media/tsvetelin-todorov-vYBPW6mas7A-unsplash.jpg": "/antioch-rehab/static/media/tsvetelin-todorov-vYBPW6mas7A-unsplash.354c767c3227fc50c465.jpg",
+    "static/media/umr-logo.webp": "/antioch-rehab/static/media/umr-logo.3172cd220dd1fbc0e2fa.webp",
     "static/media/antioch-white-logo-01.png": "/antioch-rehab/static/media/antioch-white-logo-01.f013dc4e3312d876a477.png",
     "static/media/bluecross-blueshield-simple-modern-therapy-logo.png": "/antioch-rehab/static/media/bluecross-blueshield-simple-modern-therapy-logo.56a2b29ee5649d0f6cee.png",
+    "static/media/4516741cOptum-logo-ora-RGB.webp": "/antioch-rehab/static/media/4516741cOptum-logo-ora-RGB.0a00b0d8e89507e7fa53.webp",
     "static/media/Cigna_logo.svg.png": "/antioch-rehab/static/media/Cigna_logo.svg.ff3f6e8fda9f8d5606b2.png",
+    "static/media/optima-health-inc-health-care-health-insurance-png-favpng-dumtEeQ0mCtUM1MyRcuN2YYzZ.webp": "/antioch-rehab/static/media/optima-health-inc-health-care-health-insurance-png-favpng-dumtEeQ0mCtUM1MyRcuN2YYzZ.184bf2d78e72223187b6.webp",
     "static/media/beacon-logo.png": "/antioch-rehab/static/media/beacon-logo.7c0bf886c3f818483418.png",
-    "static/media/molina.png": "/antioch-rehab/static/media/molina.777ed7b5b2160bfc53d0.png",
+    "static/media/horizon-logo.webp": "/antioch-rehab/static/media/horizon-logo.2cb8696e0bdbb9d670d6.webp",
     "static/media/United-Healthcare-Logo.png": "/antioch-rehab/static/media/United-Healthcare-Logo.9dce2462c02ddc36d849.png",
     "static/media/Anthem-Inc-logo.png": "/antioch-rehab/static/media/Anthem-Inc-logo.97c429ae10389f929f91.png",
     "index.html": "/antioch-rehab/index.html",
-    "main.1be8a230.css.map": "/antioch-rehab/static/css/main.1be8a230.css.map",
-    "main.f93ca80d.js.map": "/antioch-rehab/static/js/main.f93ca80d.js.map",
+    "main.d13e62b7.css.map": "/antioch-rehab/static/css/main.d13e62b7.css.map",
+    "main.29f231eb.js.map": "/antioch-rehab/static/js/main.29f231eb.js.map",
     "787.c2fedcfe.chunk.js.map": "/antioch-rehab/static/js/787.c2fedcfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1be8a230.css",
-    "static/js/main.f93ca80d.js"
+    "static/css/main.d13e62b7.css",
+    "static/js/main.29f231eb.js"
   ]
 }
