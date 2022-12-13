@@ -6,7 +6,14 @@ function ContactForm() {
     const form = useRef();
     const [contactForm, setContactForm] = useState({ name: '', email: '', message: '' });
     const { name, email, message } = contactForm;
-    const [errorMessage, setErrorMessage] = useState('');
+    // const [errorMessage, setErrorMessage] = useState('');
+
+    // const successMsg = document.getElementById('success');
+    // successMsg.setAttribute("class", "sent-message"); 
+    // setTimeout(() => {
+    //     successMsg.setAttribute("class", "sent-message hide");
+    // }, 4000);
+   
 
     return (
         <form id="contact-form">
@@ -24,6 +31,7 @@ function ContactForm() {
                 <textarea name="message" defaultValue={message} rows="10" cols="45" />
             </div>
             <button type="submit" className="contact-submit-btn">Submit</button>
+            {/* <h4 id="success" className="sent-message">Sent!</h4> */}
         </form>
     )
 }
