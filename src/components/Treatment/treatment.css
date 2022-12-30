@@ -1,5 +1,6 @@
 #treatment-page {
-    overflow-x: hidden;
+    overflow-y: scroll;
+    height: auto;
 }
 
 #treatment-top {
@@ -231,6 +232,7 @@
   
   /* Landscape tablets */
   @media only screen and (min-width: 769px) and (max-width: 900px) {
+
     /* SECTION TWO */
 
         #treatment-two img {
