@@ -1,23 +1,30 @@
 #about-top {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../../assets/images/luke-porter-TRys9NU8GiQ-unsplash.jpg");
-    background-position: center;
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover;
-    color: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    margin: 0px;
-    padding: 100px;
-  }
-  
-  #about-top h2 {
-      font-size: 44px;
-      font-weight: lighter;
-  }
-  
-  #about-top p {
-      font-size: 25px;
-  }
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../../assets/images/luke-porter-TRys9NU8GiQ-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 0px;
+  padding: 100px;
+}
 
-  
+#about-top h2 {
+  font-size: 44px;
+  font-weight: lighter;
+}
+
+#about-top p {
+  font-size: 22px;
+  width: 50%;
+}
+
+/* Extra small devices */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  #about-top p {
+    width: 100%;
+  }
+}
