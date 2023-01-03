@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/antioch-rehab/static/css/main.c3dc38a3.css",
-    "main.js": "/antioch-rehab/static/js/main.577eb6ba.js",
+    "main.js": "/antioch-rehab/static/js/main.b24d4d81.js",
     "static/js/787.c2fedcfe.chunk.js": "/antioch-rehab/static/js/787.c2fedcfe.chunk.js",
     "static/media/45a5a867-3376b37c.mp4": "/antioch-rehab/static/media/45a5a867-3376b37c.eec939be3cd7747d7121.mp4",
     "static/media/dex-ezekiel-1ieehMBvYhI-unsplash.jpg": "/antioch-rehab/static/media/dex-ezekiel-1ieehMBvYhI-unsplash.5dc290955bf7111daa9f.jpg",
@@ -34,11 +34,11 @@
     "static/media/Anthem-Inc-logo.png": "/antioch-rehab/static/media/Anthem-Inc-logo.97c429ae10389f929f91.png",
     "index.html": "/antioch-rehab/index.html",
     "main.c3dc38a3.css.map": "/antioch-rehab/static/css/main.c3dc38a3.css.map",
-    "main.577eb6ba.js.map": "/antioch-rehab/static/js/main.577eb6ba.js.map",
+    "main.b24d4d81.js.map": "/antioch-rehab/static/js/main.b24d4d81.js.map",
     "787.c2fedcfe.chunk.js.map": "/antioch-rehab/static/js/787.c2fedcfe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3dc38a3.css",
-    "static/js/main.577eb6ba.js"
+    "static/js/main.b24d4d81.js"
   ]
 }
