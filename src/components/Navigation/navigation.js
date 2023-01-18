@@ -25,7 +25,7 @@ function Navigation() {
                         <Link to="/antioch-rehab" className="header-nav-tab">Home</Link>
                     </Nav.Link>
                 </Nav.Item>
-                <NavDropdown id="programs-dropdown" title="Addiction ⌄">
+                <NavDropdown title="Addiction ⌄">
                     <NavDropdown.Item onClick={() => nav("/php")}>
                         Partial Hospitalization Program (PHP)
                     </NavDropdown.Item>
@@ -36,7 +36,7 @@ function Navigation() {
                         Outpatient Program (OP)
                     </NavDropdown.Item>
                 </NavDropdown>
-                <NavDropdown id="programs-dropdown" title="Mental Health ⌄">
+                <NavDropdown title="Mental Health ⌄">
                     <NavDropdown.Item onClick={() => nav("/php")}>
                         Partial Hospitalization Program (PHP)
                     </NavDropdown.Item>
@@ -86,7 +86,7 @@ function Navigation() {
                         <ul className="tabpanel">
 
                             <Link to="/antioch-rehab" className="header-nav-tab" onClick={handleClose}>Home</Link>
-                            <NavDropdown id="programs-dropdown" title="Addiction ⌄">
+                            <NavDropdown title="Addiction ⌄">
                                 <NavDropdown.Item>
                                     <Link to="/php" className="hamburger-dropdown-tab" onClick={handleClose}>Partial Hospitalization Program (PHP)</Link>
                                 </NavDropdown.Item>
@@ -97,7 +97,7 @@ function Navigation() {
                                     <Link to="/op" className="hamburger-dropdown-tab" onClick={handleClose}>Outpatient Program (OP)</Link>
                                 </NavDropdown.Item>
                             </NavDropdown>
-                            <NavDropdown id="programs-dropdown" title="Mental Health ⌄">
+                            <NavDropdown title="Mental Health ⌄">
                                 <NavDropdown.Item>
                                     <Link to="/php" className="hamburger-dropdown-tab" onClick={handleClose}>Partial Hospitalization Program (PHP)</Link>
                                 </NavDropdown.Item>
